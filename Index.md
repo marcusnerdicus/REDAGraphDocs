@@ -1,10 +1,10 @@
-﻿# Atlas Documentation
+﻿# REDAGraph Documentation
 
-Atlas Software was designed to give users a complete view of your complex operation from any level. Giving you the ability to accurately analyze data, critical to your business decisions. The system's genesis was the need to combine information from multiple sources and fuse them into a story that’s easily followed. The system contains all the major workflows to complete your supply chain. Major components include product inventory management, sales order and invoicing, scheduling, billing, lab data imports, and reporting.  
+The REDAGraph SaaS web and mobile applications provide a Realtor a powerful and easy to use MLS Real Estate Data Analytics reporting tool. Using daily MLS updates a Reator can access a set of industry standard graphical and tabular reports by selected MLS Areas and email or text the report output. Most MLS reporting applications look at data from teh zip code level but REDAGraph aggregates data at the MLS Area level to give a focused set of data points to helpt a Realtor improve their pricing strategies for Sellers and Buyers.  
 
 ## Getting Started
 
-* [Quick Start](Tutorials/quickstart.md) is a quick-start tutorial to login and navigate the Atlas application. Start with this tutorial if you want to quickly understand basic setup and navigation.
-* [Getting Started](Tutorials/Getting-Started.md) guide can be used to login and navigate the Atlas application and explore the different options and details.
-* [Tutorials](Tutorials/Index.md) is a complete tutorial to understand and use all aspects of the Atlas solution.
+* [Quick Start](Tutorials/quickstart.md) is a tutorial covering your login for the web application, installing the mobile application, and how to navigate the REDAGraph web application. Start with this tutorial to help you get setup and using the applicatinos quickly.
+* [Getting Started](Tutorials/Getting-Started.md) guides can be used to explain how the applications works with MLS data, your application Role, Report Types, and the different features and how they can be used.
+* [Tutorials](Tutorials/Index.md) will help explain and guide you, with more detail, through the different features, reports, and capabilities of REDAGraph.
 
