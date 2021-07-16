@@ -5,7 +5,7 @@
 
 ## Contents
 
-This tutorial explains how to **login and use** the web version of REDAGraph. Follow the steps below;
+This tutorial explains how to **login and use** the REDAGraph web application. Follow the steps below;
 
 1. [Logging in to REDAGraph](../Web/login/login.md)
 2. [The Dashboard](../Web/dashboard/customizing.md)
