@@ -1,13 +1,13 @@
 # Quick Start Guide
 
-> This document is aimed to quickly get you logged in and use Source Logic's Atlas for first time users. It's assumed that you have an account and current employee of Tech Management.
+> This document covers logging in to REDAGraph for the first time. You will need the user id and initial password you received, via email, before starting. If you do not have your application credentials, please contact your company or association representative.
 
-1.  Navigate to https://tm.sourcelogicatlas.com/account/login
-2.  Use your work email and the provided password to login to the system.
-3. If prompted change your password.
-4.  Once logged in you'll see your dashboard. For customization visit [Setting up your dashboard](../Web/dashboard/customizing.md)
-5.  Now you're setup to navigate and use the system.
+1.  Navigate to https://<your-company-tenant>.redagraph.com (for example myagency.redagraph.com)
+2.  Use the user id or email you provided to login to the application.
+3.  If prompted change your password. You should be prompted during your first login.
+4.  Once logged in you'll see the applicaiton dashboard. For customizing your see [Setting up your dashboard](../Web/dashboard/customizing.md)
+5.  Now you're ready to navigate and use the system.
 
-IF you'd like to learn more about the system go to  [Navigating Atlas](../Web/navigation.md).
+IF you'd like to learn more about the system go to  [Navigating REDAGraph](../Web/navigation.md).
 
 
