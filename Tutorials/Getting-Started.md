@@ -1,6 +1,6 @@
 # Getting Started
 
-> This document covers logging in to REDAGRaph for the first time. It's assumed you have recieved your user id and initial password before attempting to login. If you have not received your application credentials, please contact your company representative.
+> This document covers logging in to REDAGraph for the first time. It's assumed you have recieved your user id and initial password before attempting to login. If you have not received your application credentials, please contact your company representative.
 
 
 ## Contents
