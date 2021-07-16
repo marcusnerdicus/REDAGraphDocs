@@ -1,2 +1,2 @@
-# atlasdocs
-Docs
+# REDAGraph
+Documentation
