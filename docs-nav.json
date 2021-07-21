@@ -19,64 +19,67 @@
           ]
         },
         {
-          "text": "Menu Navigation",
-          "path": "Web/navigation.md"
-        },
-        {
-          "text": "Dashboard Configuration",
+          "text": "Dashboard",
           "path": "Web/dashboard/customizing.md"
         },
         {
           "text": "User Settings",
           "path": "Web/Account/settings.md"
-        }
+        },
+        {
+          "text": "Menu Navigation",
+          "path": "Web/navigation.md"
+        },
+        {
+          "text": "MLS Area Data",
+          "path": "Web/mls-area-data.md"
+        },
       ]
     },
     {
-      "text": "LIMS",
-      "path": "LIMS/Index.md",
+      "text": "Reports",
+      "path": "Reports/Index.md",
       "items": [
         {
-          "text": "Create Lab Order",
-          "path": "LIMS/Create-Lab-Order.md"
+          "text": "Report Categories",
+          "path": "Reports/report-types.md"
         },
         {
-          "text": "Create Lab Results",
-          "path": "LIMS/Create-Lab-Results.md"
+          "text": "Report Types",
+          "path": "Reports/report-types.md"
         },
         {
-          "text": "Management Dashboard",
-          "path": "LIMS/LIMS-Management-Dashboard.md"
+          "text": "Report Criteria",
+          "path": "Reports/report-criteria.md"
         },
         {
-          "text": "Reporting",
-          "path": "LIMS/Reporting.md"
+          "text": "Create a Report",
+          "path": "Reports/create-a-report.md"
         },
         {
-          "text": "Setup",
-          "path": "LIMS/Setup.md"
+          "text": "Edit a Report",
+          "path": "Reports/edit-a-report.md"
         },
         {
-          "text": "Import Lab Orders",
-          "path": "LIMS/Import-Lab-Orders.md"
+          "text": "Print a Report",
+          "path": "Reports/print-a-report.md"
         },
         {
-          "text": "Import Lab Results",
-          "path": "LIMS/Import-Lab-Results.md"
+          "text": "Send a Report",
+          "path": "Reports/send-a-report.md"
         },
         {
-          "text": "Analysis",
-          "path": "LIMS/Analysis.md"
+          "text": "Delete a Report",
+          "path": "Reports/delete-a-report.md"
         },
         {
-          "text": "User Dashboard",
-          "path": "LIMS/Index.md"
+          "text": "Dashboard",
+          "path": "Reports/dashboard-reports.md"
         },
         {
           "text": "Glossary",
-          "path": "LIMS/Glossary.md"
+          "path": "Reports/report-glossary.md"
         }
-
       ]
     },
     {
@@ -87,40 +90,28 @@
           "path": "Mobile/Intro.md"
         },
         {
-          "text": "Treatment Mode",
-          "path": "Mobile/Treating.md"
+          "text": "Mobile Reports",
+          "path": "Mobile/mobile-reports.md"
         },
         {
-          "text": "Sampling Mode",
-          "path": "Mobile/Sampling.md"
+          "text": "Create a Mobile Report",
+          "path": "Mobile/mobile-create-a-report.md"
         },
         {
-          "text": "Discovery Mode",
-          "path": "Mobile/Discovery.md"
+          "text": "Edit a Mobile Report",
+          "path": "Mobile/mobile-edit-a-report.md"
         },
         {
-          "text": "Treatments",
-          "path": "Mobile/Treatments.md"
+          "text": "Send a Mobile Report",
+          "path": "Mobile/mobile-send-a-report.md"
         },
         {
-          "text": "Delivery Orders",
-          "path": "Mobile/DeliveryOrders.md"
+          "text": "Create a Report",
+          "path": "Mobile/mobile-create-a-report.md"
         },
         {
-          "text": "Sales Orders",
-          "path": "Mobile/SalesOrders.md"
-        },
-        {
-          "text": "Lab Samples",
-          "path": "Mobile/Samples.md"
-        },
-        {
-          "text": "Sync",
-          "path": "Mobile/Sync.md"
-        },
-        {
-          "text": "Settings",
-          "path": "Mobile/Settings.md"
+          "text": "Mobile Settings",
+          "path": "Mobile/mpbile-settings.md"
         }
 
       ]
@@ -129,7 +120,7 @@
       "text": "Data Imports",
       "items": [
         {
-          "text": "Template",
+          "text": "Imported ",
           "path": "Imports/Index.md"
         },
         {
