@@ -53,6 +53,10 @@
           "path": "Reports/report-criteria.md"
         },
         {
+          "text": "Report Actions",
+          "path": "Reports/report-actions.md"
+        },
+        {
           "text": "Create a Report",
           "path": "Reports/create-a-report.md"
         },
