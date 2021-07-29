@@ -52,29 +52,31 @@
           "text": "Report Criteria",
           "path": "Reports/report-criteria.md"
         },
-        {
+        {     
           "text": "Report Actions",
-          "path": "Reports/report-actions.md"
-        },
-        {
-          "text": "Create a Report",
-          "path": "Reports/create-a-report.md"
-        },
-        {
-          "text": "Edit a Report",
-          "path": "Reports/edit-a-report.md"
-        },
-        {
-          "text": "Print a Report",
-          "path": "Reports/print-a-report.md"
-        },
-        {
-          "text": "Send a Report",
-          "path": "Reports/send-a-report.md"
-        },
-        {
-          "text": "Delete a Report",
-          "path": "Reports/delete-a-report.md"
+          "path": "Reports/Actions/report-actions.md",
+	        "items": [
+                      {
+                        "text": "Create a Report",
+                        "path": "Reports/Actions/create-a-report.md"
+                      },
+                      {
+                        "text": "Edit a Report",
+                        "path": "Reports/Actions/edit-a-report.md"
+                      },
+                      {
+                        "text": "Print a Report",
+                        "path": "Reports/Actions/print-a-report.md"
+                      },
+                      {
+                        "text": "Send a Report",
+                        "path": "Reports/Actions/send-a-report.md"
+                      },
+                      {
+                        "text": "Delete a Report",
+                        "path": "Reports/Actions/delete-a-report.md"
+                      }
+	          ]
         },
         {
           "text": "Dashboard",
