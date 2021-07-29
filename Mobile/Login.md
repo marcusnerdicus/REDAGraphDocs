@@ -1,11 +1,8 @@
 ﻿# Login
 
-It is required that each user login, and this login controls what data is available for a user, using thier assigned roles.
+Every application user must login. The user's login controls the data available to a user and defined by the assigned User Roles.
 
-The login screen requires an email and a password. Enter the user name and password, then click login. If you've enter 
+The login screen requires an email and a password. Enter the user name and password, then click login. If you've entered 
 
-the information correctly you will be directed to the main [dashboard](Dashboard.md). Just after the fist login, the app needs to download its initial data set. 
-
-Please wait to navigate until the sync has complete, it will start automatically and run in the background.
-
+the login information correctly you will be directed to the main [dashboard](Dashboard.md).
 ![image-logo](../images/MobileLogin.PNG)
