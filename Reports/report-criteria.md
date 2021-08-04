@@ -6,10 +6,10 @@ While viewing the Reports List, use the Filter Category and/or Filter Type drop-
 If you know the name of a specific Report, enter that name into the Search field.
 
 Select Show advanced filters to display additional filter fields:
-Name
-Description
-(Report type) Name
-(Report category) Name
-(Report criteria) Name
+- Name
+- Description
+- (Report type) Name
+- (Report category) Name
+- (Report criteria) Name
 
 Enter criteria into any of these filter fields to narrow your search.
