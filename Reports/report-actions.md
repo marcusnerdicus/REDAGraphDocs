@@ -9,11 +9,6 @@ Delete
 
 These actions are displayed in the Actions menu to the left of each Report. Any Actions you select will only affect the Report row for that action.
 
-View
-Actions > View
-Opens the report so you can view the data.
-From the Report view, use the toolbar at the top of the report to adjust the view and to export the report.
-
 
 
 
