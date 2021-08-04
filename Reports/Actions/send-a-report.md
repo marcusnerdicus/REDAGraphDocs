@@ -1,5 +1,7 @@
 ## Send a Report
-Send
-Actions > Send
-Sends the Report as a PDF attachment to your email address.
-Note: you will not receive a confirmation before the report is sent. 
+
+This Action sends the Report as a PDF attachment to your email address.
+
+Select **Actions > Send**
+
+**Note:** The Report will be sent immediately. You will not receive a confirmation before the report is sent. 
