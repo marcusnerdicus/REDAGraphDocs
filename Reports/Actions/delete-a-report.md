@@ -1,6 +1,6 @@
 ## Delete a Report
 
-This action deletes the Report.
+This Action deletes the Report.
 
 Select **Actions > Delete**
 
