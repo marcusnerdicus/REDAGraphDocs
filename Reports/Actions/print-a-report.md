@@ -2,6 +2,6 @@
 
 This Action ownloads a printable PDF. 
 
-**Actions > Print**
+Select **Actions > Print**
 
 To print, you will open the file then send it to your printer.
