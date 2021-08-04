@@ -1,6 +1,6 @@
 ## Dashboard
 
-Reporting > Reports
+**Reporting > Reports**
 
 The Reports Dashboard displays the list of all existing Reports. 
 
