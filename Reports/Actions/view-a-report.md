@@ -1,3 +1,4 @@
+## View a Report
 
 Actions > View
 Opens the report so you can view the data.
