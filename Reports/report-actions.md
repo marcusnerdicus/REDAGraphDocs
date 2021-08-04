@@ -19,9 +19,6 @@ Actions > Send
 Sends the Report as a PDF attachment to your email address.
 Note: you will not receive a confirmation before the report is sent. 
 
-Print
-Actions > Print
-Downloads a printable PDF. To print, you will open the file then send it to your printer.
 
 
 
