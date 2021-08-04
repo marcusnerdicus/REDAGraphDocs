@@ -1,6 +1,7 @@
 ## Report Categories
 
 Report Categories include:
-All Areas
-Dashboard
-Neighborhood
+
+- All Areas
+- Dashboard
+- Neighborhood
