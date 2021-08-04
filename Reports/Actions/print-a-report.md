@@ -1,4 +1,7 @@
 ## Print a Report
 
-Actions > Print
-Downloads a printable PDF. To print, you will open the file then send it to your printer.
+This Action ownloads a printable PDF. 
+
+**Actions > Print**
+
+To print, you will open the file then send it to your printer.
