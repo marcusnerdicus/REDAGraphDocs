@@ -1,6 +1,6 @@
 # Login
 
-Default url for login is https://tm.sourcelogicatlas.com/account/login
+The default url for login is https://tm.sourcelogicatlas.com/account/login
 
 ![login.PNG](../../images/login.PNG)
 
