@@ -11,5 +11,4 @@
   * [Entity Framework Core Integration](Entity-Framework-Core-Integration.md)
   * [MongoDB Integration](MongoDB-Integration.md)  
 
-
-![image-logo](../../images/makesitwork_logo_01.PNG)
+![Makes IT Work logo](../../images/makesitwork_logo_01.png)
