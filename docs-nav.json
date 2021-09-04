@@ -112,12 +112,8 @@
           "path": "Mobile/mobile-send-a-report.md"
         },
         {
-          "text": "Create a Report",
-          "path": "Mobile/mobile-create-a-report.md"
-        },
-        {
           "text": "Mobile Settings",
-          "path": "Mobile/mpbile-settings.md"
+          "path": "Mobile/mobile-settings.md"
         }
       ]
     }
