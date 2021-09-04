@@ -9,7 +9,7 @@ If you do not have an account please contact your Company's REDAGraph Applicatio
 
 Generally, during your first log in you will be required to change your password.
 
-![](../../images/reda_web_passwrd_reset.PNG)
+![resetpassword.PNG](../../images/resetpassword.PNG)
 
 After a successful login you will be redirected to the Dashboard.
 
