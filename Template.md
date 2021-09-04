@@ -12,4 +12,4 @@
   * [MongoDB Integration](MongoDB-Integration.md)  
 
 
-![image-logo](images/sllogo.PNG)
+![image-logo](images/makesitwork_logo_01.PNG)
