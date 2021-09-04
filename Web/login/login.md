@@ -1,21 +1,20 @@
 # Login
 
-The default url for login is https://tm.sourcelogicatlas.com/account/login
 
 ![login.PNG](../../images/login.PNG)
 
-Use your **Tech Management** email and password for login. 
+Use your assigned user id or email and password to log in. 
 
-###### If you do not have an account please contact your manager to get your account created .
+###### If you do not have an account please contact your Company's REDAGraph Application Manager to get your account created .
 
-Also if this is your first time to login you will have to change your password on first login and will see the change password screen.
+Generally, during your first log in you will be required to change your password.
 
-![](../../images/resetpassword.PNG)
-After the login, you are redirected to your dashboard.
+![](../../images/reda_web_passwrd_reset.PNG)
+After a successful login you will be redirected to the Dashboard.
 
 
 ### User Lockout
- Users are locked out for specified duration if they enter wrong password for a specified amount of times.
+ Users can be locked out for a specified duration if they have entered incorrect credentials within a given amount of time. Contact your Company Application Manager to unlock an account.
 
  ## Next Step
 
