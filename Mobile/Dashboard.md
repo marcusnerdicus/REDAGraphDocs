@@ -1,17 +1,14 @@
 ﻿# Dashboard and Menu
 
-The dashboard shows each of the functional areas of the app. From here you can navigate to any area. The menu in the top left corner mirrors the dashboard.
+The Mobile Dashboard is a collection of tiles for opening graphs, reports, or application functions. The Mobile Dashboard tiles cannot be modified by a user.
 
-![image-logo](../images/MobileDashboard.PNG)
+![Mobile Dashboard image](../images/reda_mobile_dashboard_v1.png)
 
- 
-
-* [Treating](Treating.md):  Map view for for truck treating.
-* [Sampling](Sampling.md):  Map view for lab sampling.
-* [Discovery](Discovery.md):  Map view for seeing all available locations.
-* [Lab Orders](Samples.md):  List of lab orders created by a user.
-* [Treatments](Treatments.md):  Review for any chemical treatments.
-* [Sales Orders](SalesOrders.md):  List of assigned sales orders.
-* [Delivery Orders](DeliveryOrders.md):  List of assigned delivery orders.
-* [Scanner](Scanner.md):  Scan lab order or location tags.
-* [Sync](Sync.md):  Mobile data sync.
+* [Reports](mobile-reports.md):  Opens the Reports View.
+* [Trends](mobile-trends.md):  Graphs displaying Weekly Trends data.
+* [Sales Count](mobile-salescount.md):  Displays the Number of Sales by Price Range for the last 365 days for all MLS Areas.
+* [Inventory](mobile-inventory.md):  Displays the Months of Available Inventory by Price Range for all MLS Areas
+* [Area Sales](mobile-areasales.md):  Displays the top 15 MLS Areas by Sold count.
+* [Area Listings](mobile-arelistings.md):  Displays the top 15 MLS Areas by Active Listing count.
+* [Market](mobile-market.md):  Data Report containing Market level summary statistics for all MLS Areas.
+* [Settings](mobile-settings.md):  Application settings for the current user.
