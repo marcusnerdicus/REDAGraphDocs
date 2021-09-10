@@ -1,5 +1,7 @@
 # How to Export a Dashboard
 
+You can download Dashboard reports using the **Export To** icon, but you cannot add or edit any Dashboard reports.
+
 1. Select **Dashboard**
 2. Select the **Export To** icon
 3. Select the **Export Type** (PDF, PNG, XLSX)
