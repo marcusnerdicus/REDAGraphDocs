@@ -5,7 +5,7 @@
       "path": "Tutorials/quickstart.md"
     },
     {
-      "text": "Getting Started",
+      "text": "Web Tutorials",
       "path":  "Tutorials/Getting-Started.md",
       "items": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "text": "Mobile",
+      "text": "Mobile Tutorials",
       "items": [
         {
           "text": "Setup",
@@ -99,18 +99,28 @@
           "text": "Mobile Reports",
           "path": "Mobile/mobile-reports.md"
         },
-        {
-          "text": "Create a Mobile Report",
-          "path": "Mobile/mobile-create-a-report.md"
-        },
-        {
-          "text": "Edit a Mobile Report",
-          "path": "Mobile/mobile-edit-a-report.md"
-        },
-        {
-          "text": "Send a Mobile Report",
-          "path": "Mobile/mobile-send-a-report.md"
-        },
+	 {     
+          "text": "Mobile Report Actions",
+          "path": "Mobile/mobile-report-actions.md",
+	        "items": [
+			{
+			  "text": "Create a Mobile Report",
+			  "path": "Mobile/mobile-create-a-report.md"
+			},
+			{
+			  "text": "Edit a Mobile Report",
+			  "path": "Mobile/mobile-edit-a-report.md"
+			},
+			{
+			  "text": "Send a Mobile Report",
+			  "path": "Mobile/mobile-send-a-report.md"
+			},
+                      {
+                        "text": "Delete a Report",
+                        "path": "Mobile/mobile-delete-a-report.md"
+                      }
+	          ]
+        },     
         {
           "text": "Mobile Settings",
           "path": "Mobile/mobile-settings.md"
