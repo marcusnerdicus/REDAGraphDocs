@@ -97,10 +97,10 @@
         },
 	 {     
           "text": "Mobile Report Actions",
-          "path": "Mobile/mobile-report-actions.md",
+          "path": "Mobile/mobile-reports.md",
 	        "items": [
 			{
-			  "text": "Create a Mobile Report",
+			  "text": "Create a Mobilmobile-report-actions.mde Report",
 			  "path": "Mobile/mobile-create-a-report.md"
 			},
 			{
