@@ -95,10 +95,6 @@
           "text": "Setup",
           "path": "Mobile/Intro.md"
         },
-        {
-          "text": "Mobile Reports",
-          "path": "Mobile/mobile-reports.md"
-        },
 	 {     
           "text": "Mobile Report Actions",
           "path": "Mobile/mobile-report-actions.md",
