@@ -26,6 +26,10 @@
           "text": "User Settings",
           "path": "Web/Account/settings.md"
         },
+	              {
+          "text": "User Notifications",
+          "path": "Web/Account/user_notifications.md"
+        },
         {
           "text": "Menu Navigation",
           "path": "Web/navigation.md"
