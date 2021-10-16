@@ -10,4 +10,4 @@ After a successfull login you will arrive at a Dashboard screen similiar to the 
 
  ## Next Step
 
-* [Dashboard Navigation](/dashboard_navigation.md)
+* [Dashboard Navigation](../dashboard_navigation.md)
