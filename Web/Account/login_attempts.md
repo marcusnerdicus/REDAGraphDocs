@@ -4,3 +4,5 @@
 2. Select **Login Attempts**
 3. View information about all login attempts
 4. When finished, select **Close**
+
+![login_attempts.PNG](../../images/reda_web_loginattempts.PNG)
