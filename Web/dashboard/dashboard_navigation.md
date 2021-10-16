@@ -13,7 +13,7 @@ To [Export](/export.md) a selected report use the Export icon.
 ![reda_web_dashboard_xport.PNG](../../images/reda_web_dashboard_xport.PNG)
 
 
-Selected reports can be expanded to full screen mode by clicking on the four arrows icon in the right corner of the report.
+Selected reports can be expanded to a full screen viewing mode by clicking the four arrows icon in the right corner of the report. The small four arrows icon appears when the report is the selected and active report.
 
 
 
