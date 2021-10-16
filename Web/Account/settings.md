@@ -10,5 +10,5 @@ A variety of a tasks can be performed from the User Settings Panel
 
 ![reda_web_user_panel.PNG](../../images/reda_web_user_panel.PNG)
 
-1. [Support](../Web/Account/support.md)
-2. [Change Password](../Web/Account/change_password.md)
+1. [Support](../support.md)
+2. [Change Password](../change_password.md)
