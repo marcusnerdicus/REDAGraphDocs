@@ -4,6 +4,7 @@ Navigating the REDAGraph application is the key to getting the most out of the a
 
 The quickest way to go from section to section within REDAGraph is to use the side navigation bar and select the application feature you want to use.
 Some of the menu options will **not** be available. The options visible are determined by the assigned application Role for the user's account. The Administrator Role will have more menu options than an Agent Role.
+
 ![reda_web_menu_admin01.PNG](../../images/reda_web_menu_admin01.PNG)
 
 Available navigation options:
