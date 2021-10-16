@@ -23,4 +23,3 @@ To view **Notifications**, select the bell icon in the upper right-hand corner o
 3. Select **Save**
 
 ![reda_web_notifications_settings.PNG](../../images/reda_web_notifications_settings.PNG)
-
