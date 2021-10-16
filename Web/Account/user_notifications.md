@@ -5,6 +5,7 @@ The Notifications feature provides quick access to in-app communication.
 ## View Notifications
 To view **Notifications**, select the bell icon in the upper right-hand corner of your screen
 **Note**: The number of unread Notifications will be displayed on the bell icon.
+![reda_web_notifications] (../../images/reda_web_notifications.PNG)
 
 ## Search for a Specific Notification
 1. While viewing the Notifications window, select **See All Notifications**
