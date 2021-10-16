@@ -10,4 +10,4 @@ The active tab determines which reports are displayed, which can be downloaded, 
 
 The order of the report tabs is determined by the active tab and will change depending on which tab is active.
 
-[Back](../dashboard/customization.md)
+[Back](../dashboard/customizing.md)
