@@ -4,3 +4,5 @@
 2. Select **Support**
 3. Enter the **Type**, **Subject**, and **Description**
 4. Select **Save**
+
+![reda_web_support.PNG](../../images/reda_web_support.PNG)
