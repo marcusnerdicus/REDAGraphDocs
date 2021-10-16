@@ -1,10 +1,8 @@
-# Dashboard Customization
+# Web Dashboard
 
-The current version of REDAGraph does not provide user level customization. The user level Dashboard Customization feature will be available in version 2.x.
+After a user logs in the web application they are directed to the application [Dashboard](../dashboard/dashboard_navigation.md)
 
-The appliction splash screen image, used on the login page, will vary according to the images used by your company.
-
-After a successfull login you will arrive at a Dashboard screen similiar to the one below. 
+The current version of REDAGraph does not provide any user level customization. The user level Dashboard Customization feature will be available in a future release.
 
 ![REDAGraph Dashboard](../../images/reda_web_dashboard.PNG)
 
