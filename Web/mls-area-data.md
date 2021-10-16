@@ -1,1 +1,3 @@
 ## MLS Area Data
+
+The data used in all Reports and Graphs is derived from the client's MLS Data available to the User's company. MLS Data is updated at least once a day but may be updated more frequently for some clients. MLS Data imported is evaluated during the update using a set of validation rules. Any MLS Data record not meeting the validation criteria is placed in a "Questionable" status and can be edited by an Administrator. Once an edit is made to a Questionable Sale (import record), the edit is applied in each subsequent data import except for the Days on Market, which is updated from the MLS data for the related Listing ID.
