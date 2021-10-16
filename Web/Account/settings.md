@@ -1,7 +1,7 @@
 # User Settings
 
-User Settings are accessed with the icon in right hand corner of the web application.
-you
+User Settings are accessed with the icon located in right hand corner of the web application.
+
 ![reda_web_user_icon.PNG](../../images/reda_web_user_icon.PNG)
 
 
