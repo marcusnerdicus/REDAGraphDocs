@@ -14,6 +14,6 @@ A variety of a tasks can be performed from the User Settings Panel
 2. [Change Password](../Account/change_password.md)
 3. [Login Attempts](../Account/login_attempts.md)
 4. [Change Profile Picture](../Account/change_profile_picture.md)
-5. [My Settings](../Account/settings.md)
+5. [My Settings](../Account/my_settings.md)
 6. [Visual Settings](../Account/visual_settings.md)
 7. [Download Collected Data](../Account/download_collected_data.md)
