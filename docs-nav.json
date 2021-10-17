@@ -83,7 +83,7 @@
 	          ]
         },
         {
-          "text": "Dashboard",
+          "text": "Report View",
           "path": "Reports/dashboard-reports.md"
         },
         {
@@ -120,7 +120,11 @@
                         "path": "Mobile/mobile-delete-a-report.md"
                       }
 	          ]
-        },     
+        },
+	{
+          "text": "Mobile Dashboard",
+          "path": "Mobile/mobile_dashboard.md"
+        },
         {
           "text": "Mobile Settings",
           "path": "Mobile/mobile-settings.md"
