@@ -12,3 +12,4 @@ The Mobile Dashboard is a collection of tiles for opening graphs, reports, or ap
 * [Area Listings](mobile-arelistings.md):  Displays the top 15 MLS Areas by Active Listing count.
 * [Market](mobile-market.md):  Data Report containing Market level summary statistics for all MLS Areas.
 * [Settings](mobile-settings.md):  Application settings for the current user.
+
