@@ -1,4 +1,4 @@
-﻿# Dashboard and Menu
+﻿# Mobile Dashboard and Menu
 
 The Mobile Dashboard is a collection of tiles for opening graphs, reports, or application functions. The Mobile Dashboard tiles cannot be modified by a user.
 
