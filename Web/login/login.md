@@ -18,4 +18,4 @@ After a successful login you will be redirected to the Web Dashboard.
 
  ## Next Step
 
-* [Dashboard Customization](../dashboard/customizing.md)
+* [Web Application Dashboard](../dashboard/customizing.md)
