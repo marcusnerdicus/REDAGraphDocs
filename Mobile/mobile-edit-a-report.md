@@ -1,4 +1,4 @@
-## Mobile Edit Report
+## Edit a Report (Mobile)
 1. From the Dashboard, select **Reports**
 2. Select a Report
 3. Select the **Edit** icon (pencil and paper icon)
