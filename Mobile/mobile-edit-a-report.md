@@ -1,6 +1,6 @@
 ## Edit a Report (Mobile)
 1. From the Dashboard, select **Reports**
 2. Select a Report
-3. Select the **Edit** icon (pencil and paper icon)
+3. Select the **Edit** icon (pencil and paper in the upper right-hand corner)
 4. Make changes as desired
 5. Select **Save**
