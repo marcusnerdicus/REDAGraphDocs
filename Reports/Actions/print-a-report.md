@@ -1,6 +1,6 @@
 ## Print a Report
 
-This Action ownloads a printable PDF. 
+This Action downloads a printable PDF file to the user's device. 
 
 Select **Actions > Print**
 
