@@ -4,6 +4,6 @@ This Action deletes the Report.
 
 Select **Actions > Delete**
 
-You will receive a confirmation before the Report is deleted. 
+You must confirm the Delete action in the dialog before the Report is deleted.
 
-**Note:** Deleting a Report does not delete the corresponding data.
+**Note:** Deleting a Report does not delete any data in the application and only deletes the Report.
