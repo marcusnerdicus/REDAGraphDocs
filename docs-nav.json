@@ -86,6 +86,10 @@
           "text": "Report View",
           "path": "Reports/dashboard-reports.md"
         },
+	{
+          "text": "Report Schedule",
+          "path": "Reports/report-schedule.md"
+        },     
         {
           "text": "Glossary",
           "path": "Reports/report-glossary.md"
