@@ -5,4 +5,4 @@ NOTE: The report can be hidden by an Administrator if needed for privacy reasons
 
 ![agent_rankings](../../images/reda_rpt_agent_rankings.PNG)
 
-[Back](../Reports/report-types.md)
+[Back](../report-types.md)
