@@ -10,14 +10,14 @@ Some of the menu options will **not** be available. The options visible are dete
 Available navigation options:
 
 - ###### Dashboard
-   - The dashboard is the landing page and provides a quick overview of Market data.
+   - The dashboard is the web application landing page and provides a quick overview of a Tenant's MLS Market data.
 - ###### Reporting
-   - Reports: A list of Reports available to a user for the user's assigned application Role.
-   - Presentations: A special report type utilizing the REDAGraph PowerPoint Applicaiton Add-In to create PowerPoint Presentations with embedded REDAGraph Reports. Available to the Admin Role.
-   - Schedules: A report or reports the user can schedule for automatic email delivery to the application user.
+   - Reports: A list of Reports available to or created by a user for the assigned application Role.
+   - Presentations: A special report type utilizing the REDAGraph PowerPoint Applicaiton Add-In to create PowerPoint Presentations with embedded REDAGraph Reports. Available to the Admin Role only.
+   - Schedules: A report or reports the user has created and can schedule for automatic email delivery to the application user.
 - ###### Contacts
    - Contacts: A User's Contacts available for emailing or texting graphs and data report output. The ability to Import Contacts from other sources is provided.
-   - Contact Lists: An Organization feature for different Contact Lists with specific Contacts in a given list.
+   - Contact Lists: An organizational feature for grouping different Contacts into a specific list.
 - ###### Administration
    - Administration is where user information and application settings are configured for the Tenant's application by Administrators.
    - Only users with the Administrator role will see the Administration menu options
