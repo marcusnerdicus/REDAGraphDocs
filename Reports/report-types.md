@@ -1,6 +1,6 @@
 # Report Types 
 ## All Areas
-- Active Listing Count
+- [Active Listing Count](../Reports/ReportTypes/rpt_type_active_listings.md)
 - Summary Statistics Report
 - Agent Rankings by Listings Sold
 - Subdivision Listing Activity
