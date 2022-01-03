@@ -23,4 +23,9 @@ Selected reports can be expanded to a full screen viewing mode by clicking the f
 ![reda_web_dashboard_expand.PNG](../../images/reda_web_dashboard_expand.PNG)
 
 
+ ## Next Step
+
+* [User Settings](../Account/settings.md)
+
+
 
