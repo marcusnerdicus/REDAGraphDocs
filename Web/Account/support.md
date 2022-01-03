@@ -6,3 +6,5 @@
 4. Select **Save**
 
 ![reda_web_support.PNG](../../images/reda_web_support.PNG)
+
+[Back](../Account/settings.md)
