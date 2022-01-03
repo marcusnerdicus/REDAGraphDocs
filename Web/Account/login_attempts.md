@@ -6,3 +6,5 @@
 4. When finished, select **Close**
 
 ![login_attempts.PNG](../../images/reda_web_loginattempts.PNG)
+
+[Back](../Account/settings.md)
