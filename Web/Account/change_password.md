@@ -3,3 +3,5 @@
 2. Select **Change Password**
 3. Enter your **Current Password**, then enter your **New Password** (twice, as indicated)
 4. Select **Save**
+
+[Back](../Account/settings.md)
