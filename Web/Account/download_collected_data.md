@@ -11,3 +11,5 @@ This feature compiles any chat text, a bio photo, and the profile information in
 
 ![reda_web_notifications_01.PNG](../../images/reda_web_notifications_01.PNG)
 
+[Back](../Account/settings.md)
+
