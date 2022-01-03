@@ -1,8 +1,8 @@
 # Report Types 
 ## All Areas
-- [Active Listing Count](../Reports/ReportTypes/rpt_type_active_listing_count.md)
-- [Summary Statistics Report](../Reports/ReportTypes/reda_rpt_allarea_summary_stats.md)
-- [Agent Rankings by Listings Sold](../Reports/ReportTypes/reda_rpt_agent_rankings.md)
+- [Active Listing Count](../Reports/ReportTypes/reda_rpt_type_active_listing_count.md)
+- [Summary Statistics Report](../Reports/ReportTypes/reda_rpt_type_allarea_summary_stats.md)
+- [Agent Rankings by Listings Sold](../Reports/ReportTypes/reda_rpt_type_agent_rankings.md)
 - Subdivision Listing Activity
 - Average Sold to Listing Price Ratio for Days on Market
 
