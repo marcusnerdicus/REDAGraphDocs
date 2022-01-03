@@ -4,4 +4,4 @@ Displays basic statistics for all MLS Areas and Prices Ranges, the average, medi
 
 ![summary_stats_report](../../images/reda_rpt_allarea_summary_stats.PNG)
 
-[Back](../Report/report-types.md)
+[Back](../report-types.md)
