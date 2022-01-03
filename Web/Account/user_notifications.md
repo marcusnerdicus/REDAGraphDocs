@@ -15,7 +15,7 @@ To view **Notifications**, select the bell icon in the upper right-hand corner o
 ![reda_web_notifications_view.PNG](../../images/reda_web_notifications_view_01.PNG)
 
 ## Set Notifications as Read
-1. While viewing the Notifications window, select **Set All As Read**
+1. While viewing the Notifications window, select **Set All As Read** and all Notifications in the Notification Window will be marked as Read
 
 ## Adjust Notifications Settings
 1. While viewing the Notifications window, select **Settings**
