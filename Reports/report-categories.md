@@ -2,6 +2,6 @@
 
 Report Categories include:
 
-- All Areas
-- Dashboard
-- Neighborhood
+- All Areas: The report data will use all MLS Areas in a Tenant's data set in the report output
+- Dashboard: The report is based on a corresponding Dashboard widget
+- Neighborhood: The report uses the selected MLS Area or MLS Areas in the report output
