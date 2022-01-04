@@ -10,7 +10,7 @@ All MLS Areas are used in the report data set
 ## Dashboard
 Report version of a Dashboard widget
 - [Sales and Months of Inventory by Price](../Reports/ReportTypes/reda_rpt_type_sales_inventory_by_price.md)
-- Weekly Trend for Active, Pending, Sold Counts with Avg Days on Market
+- [Weekly Trend for Active, Pending, Sold Counts with Avg Days on Market](../Reports/ReportTypes/reda_rpt_type_weekly_active_pendng_sold_dom.md)
 
 ## Neighborhood
 Uses a specific MLS Area or MLS Areas selected by the User in the Report's Report Criteria
