@@ -18,7 +18,7 @@ Uses a specific MLS Area or MLS Areas selected by the User in the Report's Repor
 - [Market Absorption Rate Trend](../Reports/ReportTypes/reda_rpt_type_market_absorption_rate.md)
 - [Competitive Price Lines](../Reports/ReportTypes/reda_rpt_type_competitive_price_lines.md)
 - [Single Family Housing Market Statistics](../Reports/ReportTypes/reda_rpt_type_single_family_stats.md)
-- Area Price Range Comparisons
+- [Area Price Range Comparisons](../Reports/ReportTypes/reda_rpt_type_price_range_comparison.md)
 - Days to Sold
 - Price and Square Feet
 - Weekly Trend for Active, Pending, Sold Counts with Avg Days on Market
