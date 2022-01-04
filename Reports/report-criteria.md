@@ -4,5 +4,5 @@ Report Criteria is used by some but not all Report Types to filter the data used
 
 The example below shows all the Report Criteria filters available but the Report Type determines which of the filters are displayed. If a User modifies the Report Criteria and Saves the criteria, the Report is re-rendered using the new criteria. When the user opens the Report from the either the mobile app or the web app, the Report Criteria saved last is used for the Report output.
 
-![report_criteria_full](../../images/reda_rpt_criteria_full_display)
+![report_criteria_full](../../images/reda_rpt_criteria_full_display.PNG)
 
