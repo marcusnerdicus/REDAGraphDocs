@@ -21,5 +21,4 @@ Uses a specific MLS Area or MLS Areas selected by the User in the Report's Repor
 - [Area Price Range Comparisons](../Reports/ReportTypes/reda_rpt_type_price_range_comparison.md)
 - [Days to Sold](../Reports/ReportTypes/reda_rpt_type_days_to_sold.md)
 - [Price and Square Feet](../Reports/ReportTypes/reda_rpt_type_price_to_sqrfeet.md)
-- Weekly Trend for Active, Pending, Sold Counts with Avg Days on Market
 
