@@ -20,6 +20,6 @@ Uses a specific MLS Area or MLS Areas selected by the User in the Report's Repor
 - [Single Family Housing Market Statistics](../Reports/ReportTypes/reda_rpt_type_single_family_stats.md)
 - [Area Price Range Comparisons](../Reports/ReportTypes/reda_rpt_type_price_range_comparison.md)
 - [Days to Sold](../Reports/ReportTypes/reda_rpt_type_days_to_sold.md)
-- Price and Square Feet
+- [Price and Square Feet](../Reports/ReportTypes/reda_rpt_type_price_to_sqrfeet.md)
 - Weekly Trend for Active, Pending, Sold Counts with Avg Days on Market
 
