@@ -4,4 +4,9 @@ A stacked bar graph displaying the Sold, Active Listing, and Pending count for t
 
 ![weekly_sold_pend_active_dom](../../images/reda_rpt_weekly_active_pendng_sold_dom.PNG)
 
+***
+Report Criteria
+
+![weekly_sold_pend_active_dom_criteria](../../images/reda_rpt_weekly_sold_active_pending_dom_criteria.PNG)
+
 [Back](../report-types.md)
