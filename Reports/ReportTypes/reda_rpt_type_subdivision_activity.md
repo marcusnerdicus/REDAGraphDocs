@@ -4,5 +4,9 @@ Displays the	Basic Sales and Listing information for all MLS Subdivisions (Neigh
 
 ![subdivision_activity](../../images/reda_rpt_subdivision_activity.PNG)
 
+---
+Report Criteria
+![report_criteria](../../images/reda_rpt_subdivision_activity_criteria.PNG)
+
 
 [Back](../report-types.md)
