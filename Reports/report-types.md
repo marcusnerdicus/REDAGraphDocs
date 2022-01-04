@@ -16,7 +16,7 @@ Report version of a Dashboard widget
 Uses a specific MLS Area or MLS Areas selected by the User in the Report's Report Criteria
 - [Area Buying Pattern](../Reports/ReportTypes/reda_rpt_type_area_buying_pattern.md)
 - [Market Absorption Rate Trend](../Reports/ReportTypes/reda_rpt_type_market_absorption_rate.md)
-- Competitive Price Lines
+- [Competitive Price Lines](../Reports/ReportTypes/reda_rpt_type_competitive_price_lines.md)
 - Single Family Housing Market Statistics
 - Area Price Range Comparisons
 - Days to Sold
