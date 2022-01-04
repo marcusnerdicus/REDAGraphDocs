@@ -4,7 +4,7 @@ All MLS Areas are used in the report data set
 - [Active Listing Count](../Reports/ReportTypes/reda_rpt_type_active_listing_count.md)
 - [Summary Statistics Report](../Reports/ReportTypes/reda_rpt_type_allarea_summary_stats.md)
 - [Agent Rankings by Listings Sold](../Reports/ReportTypes/reda_rpt_type_agent_rankings.md)
-- Subdivision Listing Activity
+- [Subdivision Listing Activity](../Reports/ReportTypes/reda_rpt_type_subdivision_activity.md)
 - Average Sold to Listing Price Ratio for Days on Market
 
 ## Dashboard
