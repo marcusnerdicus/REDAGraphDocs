@@ -1,15 +1,8 @@
 ## Report Criteria
 
-Use Report Criteria to narrow the list of displayed Reports.
-While viewing the Reports List, use the Filter Category and/or Filter Type drop-down menus to determine which Reports will be displayed.
+Report Criteria is used by some but not all Report Types to filter the data used in a selected Report's output. The Report Type determines what filtering criteria is available for a Report. For some Reports the report may only allow a Price Range selection, while other Reports may allow filtering by the number of Bedrooms, Bathrooms, and property Square Feet. 
 
-If you know the name of a specific Report, enter that name into the Search field.
+The example below shows all the Report Criteria filters available but the Report Type determines which of the filters are displayed. If a User modifies the Report Criteria and Saves the criteria, the Report is re-rendered using the new criteria. When the user opens the Report from the either the mobile app or the web app, the Report Criteria saved last is used for the Report output.
 
-Select Show advanced filters to display additional filter fields:
-- Name
-- Description
-- (Report type) Name
-- (Report category) Name
-- (Report criteria) Name
+![report_criteria_full](../../images/reda_rpt_criteria_full_display)
 
-Enter criteria into any of these filter fields to narrow your search.
