@@ -15,7 +15,7 @@ Report version of a Dashboard widget
 ## Neighborhood
 Uses a specific MLS Area or MLS Areas selected by the User in the Report's Report Criteria
 - [Area Buying Pattern](../Reports/ReportTypes/reda_rpt_type_area_buying_pattern.md)
-- [Market Absorption Rate Trend](../Reports/ReportTypes/reda_rpt_type_market_rate_absorption.md)
+- [Market Absorption Rate Trend](../Reports/ReportTypes/reda_rpt_type_market_absorption_rate.md)
 - Competitive Price Lines
 - Single Family Housing Market Statistics
 - Area Price Range Comparisons
