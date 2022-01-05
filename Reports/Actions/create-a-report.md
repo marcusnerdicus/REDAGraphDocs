@@ -12,6 +12,6 @@
 ***
 Create Report Dialog
 
-In the example below, the User has created a Report with a Report Category of Neighborhood, a Report Type of Area Buying Pattern, for the MLS Area Colonies, covering the past 365 Daus, with a Price Range of 300k to 800k.
+In the example below, the User has created a Report with a Report Category of Neighborhood, a Report Type of Area Buying Pattern, for the MLS Area Colonies, covering the past 365 Days, with a Price Range of 300k to 800k.
 
 ![area_buying_example](../../images/reda_create_report_areabuying_example.PNG)
