@@ -4,4 +4,9 @@ A scatter diagram displaying Sold properties by Month and Year for a selected Pr
 
 ![area_buying_pattern](../../images/reda_rpt_area_buying_pattern.PNG)
 
+***
+Report Criteria
+
+![area_buying_pattern_criteria](../../images/reda_rpt_area_buying_pattern_criteria.PNG)
+
 [Back](../report-types.md)
