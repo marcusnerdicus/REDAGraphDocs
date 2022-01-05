@@ -1,6 +1,6 @@
 # Getting Started
 
-> This document covers logging in to REDAGraph for the first time. Before you start, have your user id and initial password ready. If you have not received your application credentials via email, please contact your company or association representative.
+Before you start, have the email address used to register or the user id assigned by your Administrator and initial password ready. If you have not received your application credentials via email, please contact your company or association representative.
 
 
 ## Contents
