@@ -1,6 +1,6 @@
 ## Report Actions
 
-While viewing the Reports menu, you have access to 5 specific actions: 
+While viewing the Reports View, you have access to 5 specific actions for a Report: 
 
 - View
 - Send
