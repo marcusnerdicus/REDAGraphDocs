@@ -11,5 +11,5 @@ Reports are managed by the User in the Report View.
 ***
 Report View
 
-![report_view](../images/reda_report_view.PNG)
+![report_view](../images/reda_web_report_view.PNG)
 
