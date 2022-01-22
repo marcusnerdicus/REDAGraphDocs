@@ -2,6 +2,6 @@
 
 From the Dashboard, select **Area Listings**
 
-The Top 15 Listing Areas are displayed in the Report.
+The Report displays the Top 15 Listing Areas for the past 365 days.
 
-![mobile_create_report](../images/reda_mobile_area_listings.PNG)
+![mobile_area_listings_report](../images/reda_mobile_area_listings.PNG)
