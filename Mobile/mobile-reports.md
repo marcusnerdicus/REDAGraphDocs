@@ -6,7 +6,7 @@ You can add new reports, edit existing reports, or delete using the Mobile Repor
 
 **Note**: Use the Web Application to create or manage reports, then use the Mobile application to edit report criteria or email when in the field.
 
-![mobile_create_report](../images/reda_mobile_report_view.PNG)
+![mobile_report_view](../images/reda_mobile_report_view_01.PNG)
 
 You can also use the slide out menu to access the Reports View
 
