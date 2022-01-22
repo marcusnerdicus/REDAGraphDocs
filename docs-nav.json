@@ -41,58 +41,6 @@
       ]
     },
     {
-      "text": "Reports",
-      "path": "Reports/reports.md",
-      "items": [
-        {
-          "text": "Report Categories",
-          "path": "Reports/report-categories.md"
-        },
-        {
-          "text": "Report Types",
-          "path": "Reports/report-types.md"
-        },
-        {
-          "text": "Report Criteria",
-          "path": "Reports/report-criteria.md"
-        },
-        {     
-          "text": "Report Actions",
-          "path": "Reports/Actions/report-actions.md",
-	        "items": [
-                      {
-                        "text": "Create a Report",
-                        "path": "Reports/Actions/create-a-report.md"
-                      },
-                      {
-                        "text": "Edit a Report",
-                        "path": "Reports/Actions/edit-a-report.md"
-                      },
-                      {
-                        "text": "Print a Report",
-                        "path": "Reports/Actions/print-a-report.md"
-                      },
-                      {
-                        "text": "Send a Report",
-                        "path": "Reports/Actions/send-a-report.md"
-                      },
-                      {
-                        "text": "Delete a Report",
-                        "path": "Reports/Actions/delete-a-report.md"
-                      }
-	          ]
-        },
-        {
-          "text": "Report View",
-          "path": "Reports/report-view.md"
-        },
-	{
-          "text": "Report Schedule",
-          "path": "Reports/report-schedule.md"
-        }     
-      ]
-    },
-    {
       "text": "Mobile Tutorials",
       "items": [
         {
@@ -128,6 +76,58 @@
         {
           "text": "Mobile Settings",
           "path": "Mobile/mobile-settings.md"
+        }
+      ]
+    },
+	      {
+      "text": "Reports",
+      "path": "Reports/reports.md",
+      "items": [
+        {
+          "text": "Report Categories",
+          "path": "Reports/report-categories.md"
+        },
+        {
+          "text": "Report Types",
+          "path": "Reports/report-types.md"
+        },
+        {
+          "text": "Report Criteria",
+          "path": "Reports/report-criteria.md"
+        },
+        {
+          "text": "Report Actions",
+          "path": "Reports/Actions/report-actions.md",
+          "items": [
+            {
+              "text": "Create a Report",
+              "path": "Reports/Actions/create-a-report.md"
+            },
+            {
+              "text": "Edit a Report",
+              "path": "Reports/Actions/edit-a-report.md"
+            },
+            {
+              "text": "Print a Report",
+              "path": "Reports/Actions/print-a-report.md"
+            },
+            {
+              "text": "Send a Report",
+              "path": "Reports/Actions/send-a-report.md"
+            },
+            {
+              "text": "Delete a Report",
+              "path": "Reports/Actions/delete-a-report.md"
+            }
+          ]
+        },
+        {
+          "text": "Report View",
+          "path": "Reports/report-view.md"
+        },
+        {
+          "text": "Report Schedule",
+          "path": "Reports/report-schedule.md"
         }
       ]
     }
