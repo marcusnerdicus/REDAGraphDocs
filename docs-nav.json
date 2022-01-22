@@ -89,11 +89,7 @@
 	{
           "text": "Report Schedule",
           "path": "Reports/report-schedule.md"
-        },     
-        {
-          "text": "Glossary",
-          "path": "Reports/report-glossary.md"
-        }
+        }     
       ]
     },
     {
