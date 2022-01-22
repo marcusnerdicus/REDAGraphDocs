@@ -6,3 +6,5 @@
 4. Select a **Report Type**
 5. Enter a **Report Name**
 6. Select **Save**
+
+![mobile_create_report](../../images/reda_mobile_create_report_03.PNG)
