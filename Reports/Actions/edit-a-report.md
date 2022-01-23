@@ -1,11 +1,9 @@
 ## Edit a Report
 
-This Action enables you to change the Report name.
+This Action enables you to change the Report name or Report Criteria. The Criteria selections available in the Edit Modal will be based on the Report Type.
 
 Select **Actions > Edit**
 
-**Note:** the options that you can edit differ depending upon which Report has been selected. In some cases, you will be able to refine which data will be displayed on your Report.
-
-Select the **Is Shared** checkbox to indicate that the Report can be shared.
+For the Administrator Role, the **Is Shared** checkbox can be used to create Group Shared Reports.
 
 ![edit_report](../../images/reda_web_edit_report.PNG)
