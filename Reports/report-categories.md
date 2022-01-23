@@ -1,6 +1,6 @@
 ## Report Categories
 
-Report Categories provide a reference for what data may be included in a Report Type and the associated Report's output.
+Report Categories provide a reference for what data may be included in a Report Type and the associated Report's output. The Report Category also determines what Report Criteria will be available for data filtering. For example, most Report Types falling under the All Areas Category do not provide Area level filtering in Report Criteria.
 
 Report Categories include:
 
