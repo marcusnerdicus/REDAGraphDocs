@@ -5,6 +5,6 @@
 3. View information about all login attempts
 4. When finished, select **Close**
 
-![login_attempts.PNG](../../images/reda_web_loginattempts.PNG)
+![login_attempts.PNG](../../images/reda_web_loginattempts.png)
 
 [Back](../Account/settings.md)
