@@ -7,6 +7,6 @@
 **Note:** the maximum file size is 5MB\
 **Note:** accepted formats include: JPG, JPEG, PNG
 
-![change_profile_picture.PNG](../../images/reda_web_profile_picture.PNG)
+![change_profile_picture.PNG](../../images/reda_web_changeprofile.png)
 
 [Back](../Account/settings.md)
