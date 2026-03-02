@@ -6,7 +6,7 @@ After a user logs in the web application they are directed to the application Da
 
 The current version of REDAGraph does not provide any user level customization. The Dashboard Customization feature will be available in a future release.
 
-![REDAGraph Dashboard](../../images/reda_web_dashboard.PNG)
+![REDAGraph Dashboard](../../images/web/reda_web_dashboard_v2.PNG)
 
  ## Next Step
 

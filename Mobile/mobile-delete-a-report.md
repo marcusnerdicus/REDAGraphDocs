@@ -7,4 +7,4 @@
 
 A User Report deleted on the Mobile application deletes the report in both the Mobile App and the Web Application.
 
-![mobile_delete_report](../images/reda_mobile_delete_report.png)
+![mobile_delete_report](../images/mobile/reda_mobile_delete_report.png)

@@ -5,6 +5,6 @@
 3. Enter the **Type**, **Subject**, and **Description**
 4. Select **Save**
 
-![reda_web_support.PNG](../../images/reda_web_support.PNG)
+![reda_web_support.PNG](../../images/web/reda_web_support.PNG)
 
 [Back](../Account/settings.md)

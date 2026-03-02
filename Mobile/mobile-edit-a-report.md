@@ -7,4 +7,4 @@
 
 Mobile Reports and Web App Reports are the same Report. Any edits made to a Report on the Mobile App will appear in the Web App Report. In the sample below the Report named Area Buying Pattern is being edited.
 
-![mobile_create_report](../images/reda_mobile_edit_report.PNG)
+![mobile_create_report](../images/mobile/reda_mobile_edit_report.PNG)

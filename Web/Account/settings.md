@@ -2,7 +2,7 @@
 
 User Settings are accessed with the icon located in the right-hand corner of the web application.
 
-![reda_web_user_icon.PNG](../../images/reda_web_usersettings.png)
+![reda_web_user_icon.PNG](../../images/web/reda_web_usersettings.png)
 
 
 ## User Settings Panel

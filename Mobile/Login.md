@@ -7,9 +7,9 @@ The initial user login screen requires a valid email address. The email address 
 
 REDAGraph Login View
 
-![image-logo](../images/reda_web_login.PNG)
+![image-logo](../images/web/reda_web_login.PNG)
 
 
 Tenant Login View
 
-![image-logo](../images/reda_web_dashboard_ipad_tenantlogin.png)
+![image-logo](../images/web/reda_web_dashboard_ipad_tenantlogin.png)

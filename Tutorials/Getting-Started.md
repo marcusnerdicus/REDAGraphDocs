@@ -1,6 +1,6 @@
 # Getting Started
 
-Before you start, have the email address used to register or the user id assigned by your Administrator and initial password ready. If you have not received your application credentials via email, please contact your company or association representative.
+Before you start using the application you must be logged in. Use the assigned email address and password to login and you will land on your assigned tenant's Dashboard View. If you have not received your application credentials via email, please contact your company or association representative.
 
 
 ## Contents

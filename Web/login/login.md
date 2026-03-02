@@ -1,18 +1,9 @@
 # Web Log In
 
-For new users and users who have logged out of the application, the first Login View you see will prompt you to enter your account's email address.
-Enter the email address associated with the account and click "Check email".
+For new users and users who have logged out of the Web application, the first Login View you see will prompt you to enter your account's email address and password. For the mobile application, enter the email address associated with the account and click "Check email", then continue logging into your assigned tenant.
 
-![login.PNG](../../images/reda_web_login.PNG)
+![login.PNG](../../images/web/reda_web_login_v2.PNG)
 
-If a valid account is found, you will be prompted with the Tenant Login View.
-
-![login.PNG](../../images/reda_web_dashboard_ipad_tenantlogin.png)
-
-
-Use your assigned user id or email and password to log in the web application. 
-
-If you do not have an account please contact your Company's REDAGraph Application Manager to get your account created.
 
 Generally, during your first log in you will be required to change your password.
 
@@ -21,7 +12,7 @@ Generally, during your first log in you will be required to change your password
 After a successful login you will be redirected to the Web Dashboard.
 
 ### User Lockout
- Users can be locked out for a specified duration if they have entered incorrect credentials within a given amount of time. Contact your Company Application Manager to unlock an account.
+ Users can be locked out for a specified duration if they have entered incorrect credentials within a given amount of time. Contact your Company Application Manager to unlock your account if that happens.
 
  ## Next Step
 

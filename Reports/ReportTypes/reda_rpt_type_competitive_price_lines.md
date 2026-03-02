@@ -4,11 +4,11 @@ The graph displays three lines that reflect data points for Active Listings, Sal
 
 In the example, the bulk of the Sold properties (blue line) for the Price Range of 300k to 800k are below the 650k price. The Available properties (green line) may experience a lower demand in the near term, as their price is above 650k.
 
-![competitive_price_lines](../../images/reda_rpt_competitive_price_lines.PNG)
+![competitive_price_lines](../../images/reports/reda_rpt_competitive_price_lines.PNG)
 
 ***
 Report Criteria
 
-![competitive_price_lines_criteria](../../images/reda_rpt_competitive_price_lines_criteria.PNG)
+![competitive_price_lines_criteria](../../images/reports/reda_rpt_competitive_price_lines_criteria.PNG)
 
 [Back](../report-types.md)

@@ -130,6 +130,10 @@
           "path": "Reports/report-schedule.md"
         }
       ]
+    },
+    {
+      "text": "Listing Map",
+      "path": "ListingMap/listing-map.md"
     }
   ]
  }

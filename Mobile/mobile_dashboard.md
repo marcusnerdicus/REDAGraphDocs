@@ -6,21 +6,21 @@
 
 The Mobile Dashboard contains a set of predefined Graphs. 
 
-![Mobile Dashboard image](../images/reda_web_dashboard_ipad.png)
+![Mobile Dashboard image](../images/web/reda_web_dashboard_ipad.png)
 
 To select a Dashboard graph, click the ellipse highlighted in yellow and select a Graph from the list.
 
 
-![Mobile Dashboard image](../images/reda_web_dashboard_ipad_select.png)
+![Mobile Dashboard image](../images/web/reda_web_dashboard_ipad_select.png)
 
 The gauge icon on the Dashboard allows the User to select a Date Range that will be applied to most of the reports in the Dashboard, but not all.
 
-![Mobile Dashboard image](../images/reda_web_dashboard_ipad_dates.png)
+![Mobile Dashboard image](../images/web/reda_web_dashboard_ipad_dates.png)
 
 
 To export a graph or expand a graph view, use the Export and Expand View icons
 
-![Mobile Dashboard image](../images/reda_web_dashboard_ipad_export.png)
+![Mobile Dashboard image](../images/web/reda_web_dashboard_ipad_export.png)
 
 
 

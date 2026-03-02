@@ -5,11 +5,11 @@ This feature compiles any chat text, a bio photo, and the profile information in
 1. Select your **User Icon** in the upper right-hand side of the screen
 2. Select **Download Collected Data**
 
-![reda_web_download_dial.PNG](../../images/reda_web_download_dial.PNG)
+![reda_web_download_dial.PNG](../../images/web/reda_web_download_dial.PNG)
 
 3. Check your Noifications using the Bell icon in the upper right-hand side of the Application and use the Notification link to download the file.
 
-![reda_web_notifications_01.PNG](../../images/reda_web_notifications_01.PNG)
+![reda_web_notifications_01.PNG](../../images/web/reda_web_notifications_01.PNG)
 
 [Back](../Account/settings.md)
 

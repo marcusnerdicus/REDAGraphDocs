@@ -9,6 +9,6 @@
 
 **Note**: select **Use System Defaults** to override any changes you made.
 
-![reda_web_visual_settings.PNG](../../images/reda_web_visual_settings.PNG)
+![reda_web_visual_settings.PNG](../../images/web/reda_web_visual_settings.PNG)
 
 [Back](../Account/settings.md)

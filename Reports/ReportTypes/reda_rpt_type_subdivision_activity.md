@@ -2,11 +2,11 @@
 
 Displays the	Basic Sales and Listing information for all MLS Subdivisions (Neighborhood) for the past 365 Days using a Price Range specified by the User. The Report allows a user to select a Price Range for the report using a Report Criteria.
 
-![subdivision_activity](../../images/reda_rpt_subdivision_activity.PNG)
+![subdivision_activity](../../images/reports/reda_rpt_subdivision_activity.PNG)
 
 ---
 Report Criteria
-![report_criteria](../../images/reda_rpt_subdivision_activity_criteria.PNG)
+![report_criteria](../../images/reports/reda_rpt_subdivision_activity_criteria.PNG)
 
 
 [Back](../report-types.md)

@@ -8,4 +8,4 @@ You can create a new Report or perform **[Actions](../Reports/Actions/report-act
 
 If you have more Reports than can be displayed on one page, use the navigation menu below the Reports List to view different pages.
 
-![reda_web_reports_view.PNG](../images/reda_web_report_view.PNG)
+![reda_web_reports_view.PNG](../images/web/reda_web_report_view.PNG)

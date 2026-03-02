@@ -2,11 +2,11 @@
 
 A scatter diagram displays the number of days to a Sold status for Properties in the selected MLS Area based on a specific Price Range and Date Range. The Report is useful for identifying what property price points sell the quickest in a given MLS Area.
 
-![days_to_sold](../../images/reda_rpt_days_to_sold.PNG)
+![days_to_sold](../../images/reports/reda_rpt_days_to_sold.PNG)
 
 ***
 Report Criteria
 
-![days_to_sold_criteria](../../images/reda_rpt_days_to_sold_criteria.PNG)
+![days_to_sold_criteria](../../images/reports/reda_rpt_days_to_sold_criteria.PNG)
 
 [Back](../report-types.md)

@@ -12,5 +12,5 @@ The **Report Time period** allows the user to specify how many days will be incl
 
 The **Filter Begin Date** and **Filter End Date** fields allow a user to specify dates if they want something other than the Report Time period values. 
 
-![report_criteria_full](../images/reda_rpt_criteria_full_display.PNG)
+![report_criteria_full](../images/reports/reda_rpt_criteria_full_display.PNG)
 

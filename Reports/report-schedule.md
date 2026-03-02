@@ -4,7 +4,7 @@ The Report Schedule feature allows a user to select one or more Reports previous
 
 A User can Create, Edit, or Delete a Report Schedule. Each row in the Report Schedules View allows two Actions: Edit and Delete. Those Actions affect only the Report Schedule selected. Report Schedules are specific to a User and will not be available to any other User.
 
-![report_schedule_new](../images/reda_rpt_schedule_view.PNG)
+![report_schedule_new](../images/reports/reda_rpt_schedule_view.PNG)
 
 ***
 Create new schedule
@@ -19,7 +19,7 @@ The **Start Date** also includes a Time value which determines the time of day t
 
 In the example below, the User has indicated that the two Reports selected will be emailed every Monday at 8:00 AM.
 
-![report_schedule_new](../images/reda_rpt_schedule_create_new.PNG)
+![report_schedule_new](../images/reports/reda_rpt_schedule_create_new.PNG)
 
 
 
