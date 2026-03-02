@@ -8,8 +8,8 @@ User Settings are accessed with the icon located in the right-hand corner of the
 ## User Settings Panel
 A variety of tasks can be performed from the User Settings Panel
 
-1. [Manage linked accounts]
-2. [Manage authority delegations]
+1. [Manage linked accounts](../Account/manage_linked_accounts.md)
+2. [Manage authority delegations](../Account/manage_authority_delegations.md)
 3. [Change Password](../Account/change_password.md)
 4. [Login Attempts](../Account/login_attempts.md)
 5. [Change Profile Picture](../Account/change_profile_picture.md)
