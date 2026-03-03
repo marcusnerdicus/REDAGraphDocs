@@ -20,6 +20,16 @@ The **Save** button allows a user to save a map filter configuration for later u
 
 The **Load** button allows a user to load a previously saved map filter.
 
+## Listing Map - Example 1
 ![ListingMap](../images/listingmap/reda_web_listingmap_1.png)
+
+
+
+## Listing Map - Example 2
+An example of selecting a specific Area for Active listings. The selected Area is highlighted and the Analytics calculated for the pins displayed. The pin details can be viewed by clicking on the pin.
+
+![ListingMap](../images/listingmap/reda_web_listingmap_2.png)
+
+
 
 

@@ -1,6 +1,6 @@
 ## Mobile Settings
 
-1. From the Dashboard, select **Settings**
-2. Make changes as desired
+1. Click the User Panel icon in the upper right corner and select **My settings**.
+2. Make changes as desired and click Save.
 
-The only Settings available to an Agent Role is logging out of the application and selecting the default language.
+

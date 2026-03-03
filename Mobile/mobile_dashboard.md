@@ -1,26 +1,11 @@
 ﻿# Mobile Dashboard and Menu
 
-* [Dashboard](mobile-trends.md):  The Tenant's Dasboard View
-* [Reporting](mobile-reports.md):  Expands the Reporting Menu.
+The Mobile Dashboard will look different depending on the mobile device. On a phone, the screen will shrink as needed and the user may have to scroll to see button or text. The mobile application Dashboard is the same Dashboard in the web application but will look and behave differently.
+
+![Mobile Dashboard Android image](../images/mobile/reda_mobile_dashboard_sized.png)
 
 
-The Mobile Dashboard contains a set of predefined Graphs. 
 
-![Mobile Dashboard image](../images/web/reda_web_dashboard_ipad.png)
-
-To select a Dashboard graph, click the ellipse highlighted in yellow and select a Graph from the list.
-
-
-![Mobile Dashboard image](../images/web/reda_web_dashboard_ipad_select.png)
-
-The gauge icon on the Dashboard allows the User to select a Date Range that will be applied to most of the reports in the Dashboard, but not all.
-
-![Mobile Dashboard image](../images/web/reda_web_dashboard_ipad_dates.png)
-
-
-To export a graph or expand a graph view, use the Export and Expand View icons
-
-![Mobile Dashboard image](../images/web/reda_web_dashboard_ipad_export.png)
 
 
 
