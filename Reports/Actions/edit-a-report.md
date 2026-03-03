@@ -4,6 +4,5 @@ This Action enables you to change the Report name or Report Criteria. The Criter
 
 Select **Actions > Edit**
 
-For the Administrator Role, the **Is Shared** checkbox can be used to create Group Shared Reports.
+Make the desired criteria changes and click Save.
 
-![edit_report](../../images/web/reda_web_edit_report.PNG)

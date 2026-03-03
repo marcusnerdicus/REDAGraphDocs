@@ -126,8 +126,8 @@
           "path": "Reports/report-view.md"
         },
         {
-          "text": "Report Schedule",
-          "path": "Reports/report-schedule.md"
+          "_text": "Report Schedule",
+          "_path": "Reports/report-schedule.md"
         }
       ]
     },
