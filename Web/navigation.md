@@ -18,7 +18,7 @@ Administrator Role Menu
 
 Menu Collapsed
 
-![reda_web_menu_image](../images/web/reda_web_menu_agent_collapse.png)
+![reda_web_menu_image](../images/web/reda_web_menu_collapsed.png)
 
 
 Available navigation options:
@@ -29,13 +29,13 @@ Available navigation options:
    - Reports: A list of Reports available to or created by a user for the assigned application Role.
    - Schedules: A report or reports the user has created and can schedule for automatic email delivery to the application user.
 
+![reda_web_menu_image](../images/web/reda_web_menu_reporting.png)
+
 - ###### Listings
    - Listing Map: A Google map populated with pins for Active, Pending, and Closed Listings. For the pins visible on the map, a basic set of Analytic numbers is provided. Up to 25 Filter choices can be saved using the "Save" button and reloaded later using the "Load" button. When a map needs to be "Refreshed", the refresh button at the top of the Filter panel turns orange. You may need to scroll the panel to the top of the page for the refresh button to work correctly. Anytime the filters are refreshed, the analytics are recalculated.
 
-- ###### Contacts (Admin user only)
-   - Contacts: Only available to an Admin Role, for now. A User's Contacts are available for emailing or texting graphs and data report output. The ability to Import Contacts from other sources is provided.
-   - Contact Lists: An organizational feature for grouping different Contacts into a specific list.
- 
+![reda_web_menu_image](../images/web/reda_web_menu_listings.png)
+
 - ###### Administration (Admin user only)
    - Administration is where user information and application settings are configured for the Tenant's application by Administrators.
    - Only users with the Administrator role will see the Administration menu options

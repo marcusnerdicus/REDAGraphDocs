@@ -4,6 +4,8 @@ The Listing Map uses a Google Maps framework to display Active, Pending, and Clo
 
 The Analytics panel calculations use the current List Price for Active and Pending listings and the Closed price for Closed listings. When MLS data is loaded each day, all Active and Pending listings are included, but the data set includes only 13 months of Closed listings. Any Closed listing older than 13 months is ignored and not displayed on the map or in reports. 
 
+When the map is zoomed in far enough to distinguish individual pins, a label appears above each pin showing its List Price (Active or Pending) or Sold Price (Closed). Clicking a pin opens a details dialog with more information about the property; for Closed listings, this dialog also includes the Sold Price.
+
 The **Listing Status** filter can be either Active, Pending, Active and Pending, or Closed. All three status values cannot be selected together to avoid confusion in the Analytics calculations.
 
 The **Sold Date Range** filter is only available when the Status filter has Closed listings selected.
@@ -14,7 +16,7 @@ If a tenant has defined **Area Groups** for their MLS Area data, an Area Group d
 
 The **Reset Filters** button returns the map filters to the default of Active and Pending listing status with no other filters applied.
 
-The **Export Map'** button opens a Print dialog with two pages: the first is the map rendering, and the second contains the Analytics values. The user can save the output as a PDF or print it if printing is available.
+The **Export Map** button opens a Print dialog with two pages: the first is the map rendering, and the second contains the Analytics values. The user can save the output as a PDF or print it if printing is available.
 
 The **Save** button allows a user to save a map filter configuration for later use. A user can save up to 25 map filters.
 
@@ -26,10 +28,8 @@ The **Load** button allows a user to load a previously saved map filter.
 
 
 ## Listing Map - Example 2
-An example of selecting a specific Area for Active listings. The selected Area is highlighted and the Analytics calculated for the pins displayed. The pin details can be viewed by clicking on the pin.
+An example of selecting a specific Area for Active listings. The selected Area is highlighted and the Analytics calculated for the pins displayed. Since the map is zoomed in, each pin also shows its List Price label. The pin details can be viewed by clicking on the pin.
 
 ![ListingMap](../images/listingmap/reda_web_listingmap_2.png)
-
-
 
 

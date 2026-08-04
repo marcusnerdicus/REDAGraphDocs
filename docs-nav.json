@@ -37,7 +37,7 @@
         {
           "text": "MLS Area Data",
           "path": "Web/mls-area-data.md"
-        },
+        }
       ]
     },
     {
@@ -108,8 +108,8 @@
           "path": "Reports/report-view.md"
         },
         {
-          "_text": "Report Schedule",
-          "_path": "Reports/report-schedule.md"
+          "text": "Report Schedule",
+          "path": "Reports/report-schedule.md"
         }
       ]
     },
