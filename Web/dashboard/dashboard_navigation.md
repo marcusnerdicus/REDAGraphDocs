@@ -14,7 +14,7 @@ For some dashboard reports additional data filters may be available. The Dashboa
 
 For the Sales, Months of Inventory, and Sold Counts by Month graphs, an additional Area filter is available. Select one or more Areas to limit the graph's data to those Areas.
 
-![reda_web_dashboard_filter_area.PNG](../../images/web/reda_web_dashboard_filter_area.PNG)
+![reda_web_dashboard_filter_area_v8.png](../../images/web/reda_web_dashboard_filter_area_v8.png)
 
 ***
 
