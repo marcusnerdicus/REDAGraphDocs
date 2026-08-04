@@ -6,7 +6,15 @@ The Dashboard has a set of Tabs containing Dashboard level Reports. If the Dashb
 
 ***
 
-For some dashboard reports additional data filters may be available. The Dashboard filter is accessed using the Sliders icon next to the Export icon. Select one of the filter values and click Submit and the associated report data will be updated.
+For some dashboard reports additional data filters may be available. The Dashboard filter is accessed using the Sliders icon next to the Export icon, which opens the Dashboard Parameters dialog.
+
+The **Number of Days** parameter sets the date range used for the report's data.
+
+The **Area Filter** parameter allows one or more Areas to be selected to limit the report's data to those Areas.
+
+The **Pass Null** column can be ignored. It is a system column that cannot be hidden and is not intended for user interaction.
+
+Select the desired filter values and click Submit and the associated report data will be updated.
 
 ![reda_web_dashboard_filter.PNG](../../images/web/reda_web_dashboard_filter.PNG)
 
